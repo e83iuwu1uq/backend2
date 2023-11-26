@@ -1,0 +1,15 @@
+{
+  "name": "backend2",
+  "version": "1.0.0",
+  "description": "basic backend app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "gaurav",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
